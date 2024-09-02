@@ -1,10 +1,10 @@
-Project: Motor Performance Analysis with Different Propellers and Batteries
+# Project: Motor Performance Analysis with Different Propellers and Batteries
 
-Overview
+## Overview
 
-This project focuses on evaluating the performance of a motor under varying conditions by measuring thrust, RPM, voltage, and current. The tests were conducted using two types of propellers—plastic and carbon—and two types of batteries: 3S1P and 4S1P.
+This project focuses on evaluating the performance of a motor (dji 2212/920 kV) under varying conditions by measuring thrust, RPM, voltage, and current. The tests were conducted using two types of propellers—plastic and carbon—and two types of batteries: 3S1P and 4S1P.
 
-Tests Conducted
+## Tests Conducted
 
 ### Test 1: Plastic Propeller with 3S1P Battery
 
