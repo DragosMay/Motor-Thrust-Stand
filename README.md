@@ -19,7 +19,7 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
   ![Voltage Test 1 (V)](3s_1p_plastic/Voltage.png)
 - **Current (A):**
   ![Current Test 1 (A)](3s_1p_plastic/Current.png)
-- **RPM:**
+- **Speed (RPM):**
   ![RPM Test 1](3s_1p_plastic/Speed.png)
 - **Motor Speed (%):**
   ![Motor Speed Test 1 (%)](3s_1p_plastic/MotorPWM.png)
@@ -33,7 +33,7 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
   ![Voltage Test 2 (V)](3s_1p_carbon/Voltage.png)
 - **Current (A):**
   ![Current Test 2 (A)](3s_1p_carbon/Current.png)
-- **RPM:**
+- **Speed (RPM):**
   ![RPM Test 2](3s_1p_carbon/Speed.png)
 - **Motor Speed (%):**
   ![Motor Speed Test 2 (%)](3s_1p_carbon/MotorPWM.png)
@@ -47,7 +47,7 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
   ![Voltage Test 3 (V)](4s_1p_plastic/Voltage.png)
 - **Current (A):**
   ![Current Test 3 (A)](4s_1p_plastic/Current.png)
-- **RPM:**
+- **Speed (RPM):**
   ![RPM Test 3](4s_1p_plastic/Speed.png)
 - **Motor Speed (%):**
   ![Motor Speed Test 3 (%)](4s_1p_plastic/MotorPWM.png)
@@ -61,7 +61,7 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
   ![Voltage Test 4 (V)](4s_1p_carbon/Voltage.png)
 - **Current (A):**
   ![Current Test 4 (A)](4s_1p_carbon/Current.png)
-- **RPM:**
+- **Speed (RPM):**
   ![RPM Test 4](4s_1p_carbon/Speed.png)
 - **Motor Speed (%):**
   ![Motor Speed Test 4 (%)](4s_1p_carbon/MotorPWM.png)
@@ -73,10 +73,12 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
 The results show significant differences in performance based on the combination of propeller material and battery type. These insights are valuable for optimizing motor setups in RC models or drones.
 
 ## Proiect members
-- Maydanskyy Dragoș-Laurențiu
-- Manolescu Mihnea-Gabriel
-- Balint Robert
-- Mateescu Bogdan
-- Muraru Vlad-Gabriel
-- Tuța Nicoleta-Denisa
+
+- [Maydanskyy Dragoș-Laurențiu](https://github.com/Dragos-cmd)
+- [Manolescu Mihnea-Gabriel](https://github.com/Mihnea-Gabriel)
+- [Balint Robert](https://github.com/RobertBalint43)
+- [Mateescu Bogdan](https://github.com/Bogdanuca)
+- [Muraru Vlad-Gabriel](https://github.com/VladgGggg)
+- [Tuța Nicoleta-Denisa](https://github.com/Denisa06)
+
 
