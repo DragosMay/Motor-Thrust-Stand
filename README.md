@@ -2,6 +2,11 @@
 
 ## Overview
 
+- **Internship:**
+  ![Expleo Group](3d_model/expleo-logo-and-tagline.png)
+
+## Overview
+
 This project focuses on evaluating the performance of a motor (dji 2212/920 kV) under varying conditions by measuring thrust, RPM, voltage, and current. The tests were conducted using two types of propellers—plastic and carbon—and two types of batteries: 3S1P and 4S1P.
 
 ## Initial Setup
