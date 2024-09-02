@@ -16,59 +16,66 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
 
 ### Results
 - **Voltage:**
-  ![Voltage Test 1](3s_1p_plastic/Voltage.png)
+  ![Voltage Test 1 (V)](3s_1p_plastic/Voltage.png)
 - **Current:**
-  ![Current Test 1](3s_1p_plastic/Current.png)
+  ![Current Test 1 (A)](3s_1p_plastic/Current.png)
 - **RPM:**
   ![RPM Test 1](3s_1p_plastic/Speed.png)
 - **Motor Speed:**
-  ![Motor Speed Test 1](3s_1p_plastic/MotorPWM.png)
+  ![Motor Speed Test 1 (%)](3s_1p_plastic/MotorPWM.png)
 - **Thrust (Weight):**
-  ![Weight Test 1](3s_1p_plastic/Weight.png)
+  ![Weight Test 1 (g)](3s_1p_plastic/Weight.png)
 
 ### Test 2: Carbon Propeller with 3S1P Battery
 
 ### Results
 - **Voltage:**
-  ![Voltage Test 2](3s_1p_carbon/Voltage.png)
+  ![Voltage Test 2 (V)](3s_1p_carbon/Voltage.png)
 - **Current:**
-  ![Current Test 2](3s_1p_carbon/Current.png)
+  ![Current Test 2 (A)](3s_1p_carbon/Current.png)
 - **RPM:**
   ![RPM Test 2](3s_1p_carbon/Speed.png)
 - **Motor Speed:**
-  ![Motor Speed Test 2](3s_1p_carbon/MotorPWM.png)
+  ![Motor Speed Test 2 (%)](3s_1p_carbon/MotorPWM.png)
 - **Thrust (Weight):**
-  ![Weight Test 2](3s_1p_carbon/Weight.png)
+  ![Weight Test 2 (g)](3s_1p_carbon/Weight.png)
 
 ### Test 3: Plastic Propeller with 4S1P Battery
 
 ### Results
 - **Voltage:**
-  ![Voltage Test 2](4s_1p_plastic/Voltage.png)
+  ![Voltage Test 3 (V)](4s_1p_plastic/Voltage.png)
 - **Current:**
-  ![Current Test 2](4s_1p_plastic/Current.png)
+  ![Current Test 3 (A)](4s_1p_plastic/Current.png)
 - **RPM:**
-  ![RPM Test 2](4s_1p_plastic/Speed.png)
+  ![RPM Test 3](4s_1p_plastic/Speed.png)
 - **Motor Speed:**
-  ![Motor Speed Test 2](4s_1p_plastic/MotorPWM.png)
+  ![Motor Speed Test 3 (%)](4s_1p_plastic/MotorPWM.png)
 - **Thrust (Weight):**
-  ![Weight Test 2](4s_1p_plastic/Weight.png)
+  ![Weight Test 3 (g)](4s_1p_plastic/Weight.png)
 
 ### Test 4: Carbon Propeller with 4S1P Battery
 
 ### Results
 - **Voltage:**
-  ![Voltage Test 2](4s_1p_carbon/Voltage.png)
+  ![Voltage Test 4 (V)](4s_1p_carbon/Voltage.png)
 - **Current:**
-  ![Current Test 2](4s_1p_carbon/Current.png)
+  ![Current Test 4 (A)](4s_1p_carbon/Current.png)
 - **RPM:**
-  ![RPM Test 2](4s_1p_carbon/Speed.png)
+  ![RPM Test 4](4s_1p_carbon/Speed.png)
 - **Motor Speed:**
-  ![Motor Speed Test 2](4s_1p_carbon/MotorPWM.png)
+  ![Motor Speed Test 4 (%)](4s_1p_carbon/MotorPWM.png)
 - **Thrust (Weight):**
-  ![Weight Test 2](4s_1p_carbon/Weight.png)
+  ![Weight Test 4](4s_1p_carbon/Weight.png)
 
 ## Conclusion
 
 The results show significant differences in performance based on the combination of propeller material and battery type. These insights are valuable for optimizing motor setups in RC models or drones.
+
+## Proiect members
+- Maydanskyy Dragoș-Laurențiu
+- Manolescu Mihnea-Gabriel
+- Balint Robert
+- Muraru Vlad-Gabriel
+- Tuța Nicoleta-Denisa
 
