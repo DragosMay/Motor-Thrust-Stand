@@ -77,7 +77,7 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
 
 The results show significant differences in performance based on the combination of propeller material and battery type. These insights are valuable for optimizing motor setups in RC models or drones.
 
-## Proiect members
+## Project members
 
 - [Maydanskyy Dragoș-Laurențiu](https://github.com/Dragos-cmd)
 - [Manolescu Mihnea-Gabriel](https://github.com/Mihnea-Gabriel)
