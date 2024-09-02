@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **Internship:**
+- **Internship Innovation Lab R&D:**
   ![Expleo Group](3d_model/expleo-logo-and-tagline.png)
 
 ## Overview
