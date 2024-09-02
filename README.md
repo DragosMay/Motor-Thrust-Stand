@@ -4,6 +4,12 @@
 
 This project focuses on evaluating the performance of a motor (dji 2212/920 kV) under varying conditions by measuring thrust, RPM, voltage, and current. The tests were conducted using two types of propellers—plastic and carbon—and two types of batteries: 3S1P and 4S1P.
 
+## Initial Setup
+
+### 3D model
+![Front](3d_model/1.png)
+![Vertical](3d_model/2.png)
+
 ## Tests Conducted
 
 ### Test 1: Plastic Propeller with 3S1P Battery
