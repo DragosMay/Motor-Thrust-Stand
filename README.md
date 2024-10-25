@@ -2,11 +2,6 @@
 
 ## Overview
 
-- **Internship Innovation Lab R&D:**
-  ![Expleo Group](3d_model/expleo-logo-and-tagline.png)
-
-## Overview
-
 This project focuses on evaluating the performance of a motor (dji 2212/920 kV) under varying conditions by measuring thrust, RPM, voltage, and current. The tests were conducted using two types of propellers—plastic and carbon—and two types of batteries: 3S1P and 4S1P.
 
 ## Initial Setup
@@ -76,14 +71,5 @@ This project focuses on evaluating the performance of a motor (dji 2212/920 kV) 
 ## Conclusion
 
 The results show significant differences in performance based on the combination of propeller material and battery type. These insights are valuable for optimizing motor setups in RC models or drones.
-
-## Project members
-
-- [Maydanskyy Dragoș-Laurențiu](https://github.com/Dragos-cmd)
-- [Manolescu Mihnea-Gabriel](https://github.com/Mihnea-Gabriel)
-- [Balint Robert](https://github.com/RobertBalint43)
-- [Mateescu Bogdan](https://github.com/Bogdanuca)
-- [Muraru Vlad-Gabriel](https://github.com/VladgGggg)
-- [Tuța Nicoleta-Denisa](https://github.com/Denisa06)
 
 
